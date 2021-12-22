@@ -12,7 +12,7 @@ order: 50
 
 ***457 DR***. The School of Wizardry is founded in Neverwinter by the Wizards Aganazzar, Ilyykur, Presper, and Grimwald (collectively known as the covenant). 
 
-***955 DR***. Red Wizards of Thay aid arc hordes in escaping the wizards of Neverwinter starting the "Orcgates Affair" and a centuries-long feud between Thay and Neverwinter.
+***955 DR***. Red Wizards of Thay aid orc hordes in escaping the wizards of Neverwinter starting the "Orcgates Affair" and a centuries-long feud between Thay and Neverwinter.
 
 ***1081 DR***. Red Wizards slay Aganzzar and destroy the School of Wizardry.
 
@@ -24,7 +24,7 @@ order: 50
 
 ***1385 DR***. The Spellplague strikes Toril. This creates the floating earthmotes on which some of Neverwinter's landmarks reside, sends the Cloaktower to the Far Realm, causes the rise of undead in the Neverdeath graveyard, allows the Netherese to transport the Shard of Night to Neverwinter, and corrupts the Underdark directly beneath Neverwinter (which gets exposed as the Chasm later).
 
-***1451 DR***. An adventuring party in Gauntlgrym caused the primordial Maegera to fly into a fit of rage and lay waste to much of the surrounding area. This included causing Mount Hotenow to erupt, opening a massive chasm in the south-eastern quarter of Neverwinter and laying ruin to much of Castle Never (killing most of the castle's inhabitants as well). This even is often simply referred to as "the cataclysm."
+***1451 DR***. An adventuring party in Gauntlgrym caused the primordial Maegera to fly into a fit of rage and lay waste to much of the surrounding area. This included causing Mount Hotenow to erupt, opening a massive chasm in the south-eastern quarter of Neverwinter and laying ruin to much of Castle Never (killing most of the castle's inhabitants as well). This event is often simply referred to as "the cataclysm."
 
 ***1467 DR***. Still reeling from the destruction of the cataclysm, Dagult Neverember hires Mintarn mercenaries to aid him in bringing order back to Neverwinter. He calls this the "New Neverwinter" movement.
 
